@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1617694406 source:c:\users\30041203\desktop\c++ projects\task3_sem2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+	"robbers.h"
+
+1617694675 source:c:\users\30041203\desktop\c++ projects\task3_sem2\robbbers.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+	"robbers.h"
+
+1617694420 c:\users\30041203\desktop\c++ projects\task3_sem2\robbers.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
